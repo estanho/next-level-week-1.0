@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="github/logo.svg">
-</p>
-
 <h1 align="center">
   :rocket: Next Level Week :rocket:
 </h1>
@@ -19,11 +15,14 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="github/logo.svg">
+</p>
+
 ---
 
 ## Projeto
-**Ecoleta** é um projeto que visa ajudar as pessoas a encontrar pontos de descarte de materiais para reciclagem de uma forma simples e rápida. <br>
-O desenvolvimento ocorreu durante a Next Level Week da [Rocketseat](https://rocketseat.com.br/).
+**Ecoleta** é um projeto que visa ajudar as pessoas a encontrar pontos de descarte de materiais para reciclagem de uma forma simples e rápida. O desenvolvimento ocorreu durante a Next Level Week da [Rocketseat](https://rocketseat.com.br/).
 <br>
 
 ---
